@@ -1,6 +1,6 @@
 # 🃏 Blackjack Game - CP6
 
-Um simulador de Blackjack desenvolvido em Next.js com design simples e funcional.
+Um simulador de Blackjack desenvolvido em Next.js.
 
 ## 📋 Funcionalidades
 
